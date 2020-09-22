@@ -2,6 +2,8 @@
 
 SimpleKanban UI baseado no clone do site Pipefy
 
+![Screenshot preview](screenshot.png)
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
